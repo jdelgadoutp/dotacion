@@ -1,4 +1,4 @@
-package co.edu.utp.dotaciones.model.repo;
+package co.edu.utp.dotaciones.model.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
